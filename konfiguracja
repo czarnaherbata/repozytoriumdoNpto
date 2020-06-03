@@ -1,0 +1,3 @@
+git config --global user.email "czarnaherbata223@gmail.com"
+git config --global user.name "czarnaherbata" 
+git config --system --unset credential.helper
